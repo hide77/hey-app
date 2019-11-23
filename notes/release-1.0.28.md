@@ -1,0 +1,27 @@
+- When join a chat, should appear at the top of subscriptions
+- image preview in chat
+- differenciation between hashtags and websites
+- post image without text
+- better icon on some devices
+- when click on user picture go to profile
+- notifications infinite scroll
+- subscriptions infinite scroll
+- navigation optimization
+- compression of bigger pictures
+- on register lock button to avoid double tap
+- detection of lost connexion
+- User Experience highly improved
+- Drafts are saved
+- Smooth transitions between views
+- iPhone SE visual glitch fix
+- showing the number of subscriptions next to a chatroom
+- copy message
+- autofocus when reply to someone
+- go to the right place when click on notification
+- all reporting actions in one "more" button
+- when unsubscribe, going back to subscriptions
+- clear all local data when logging out
+- recover password from app
+- better upload picture experience
+- bug fix: impossible to delete message straigh away
+- bug fix: unhandeled lost connexion

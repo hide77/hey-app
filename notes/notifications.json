@@ -1,0 +1,101 @@
+{
+  "phone_locked": {
+    "title": "notificationOpenedListener",
+    "notificationOpen": {
+      "action": "com.apple.UNNotificationDefaultActionIdentifier",
+      "notification": {
+        "_body": "nab.sh tagged you in a message on ink school-general (@nab)",
+        "_data": {
+          "channel": "5d531d4346eab53f948c7cbe",
+          "username": "nab.sh",
+          "preview": "@nab",
+          "type": "channelChat.tagged",
+          "user_from": "5c1fdf9dc64fc25cca92658a",
+          "created_at": "2019-09-03T12:47:35.011Z",
+          "channel_chat": "5d6e60e679f900389ec2884b",
+          "google.c.a.e": "1",
+          "group": "5d531d4346eab53f948c7cbd",
+          "notif": "5d6e60e779f900389ec2884c"
+        },
+        "_notificationId": "662E027A-312F-4270-9F61-3FF7C43EC8D8",
+        "_android": {
+          "_actions": [],
+          "_people": [],
+          "_smallIcon": { "icon": "ic_launcher" }
+        },
+        "_ios": {
+          "_attachments": [],
+          "_category": "",
+          "_launchImage": "",
+          "_threadIdentifier": ""
+        }
+      }
+    }
+  },
+  "inapp": {
+    "title": "notificationOpenedListener",
+    "notificationOpen": {
+      "action": "com.apple.UNNotificationDefaultActionIdentifier",
+      "notification": {
+        "_body": "nab.sh tagged you in a message on ink school-general (@nab )",
+        "_data": {
+          "channel": "5d531d4346eab53f948c7cbe",
+          "username": "nab.sh",
+          "preview": "@nab ",
+          "type": "channelChat.tagged",
+          "user_from": "5c1fdf9dc64fc25cca92658a",
+          "created_at": "2019-09-03T12:47:10.363Z",
+          "channel_chat": "5d6e60ce79f900389ec28847",
+          "google.c.a.e": "1",
+          "group": "5d531d4346eab53f948c7cbd",
+          "notif": "5d6e60ce79f900389ec28848"
+        },
+        "_notificationId": "618557D4-7EE7-42B8-BF4D-5F0DAD319C37",
+        "_android": {
+          "_actions": [],
+          "_people": [],
+          "_smallIcon": { "icon": "ic_launcher" }
+        },
+        "_ios": {
+          "_attachments": [],
+          "_category": "",
+          "_launchImage": "",
+          "_threadIdentifier": ""
+        }
+      }
+    }
+  },
+  "app_closed_init": {
+    "title": "getInitialNotification",
+    "notificationOpen": {
+      "action": "com.apple.UNNotificationDefaultActionIdentifier",
+      "notification": {
+        "_body": "nab.sh tagged you in a message on ink school-general (@nab)",
+        "_data": {
+          "channel": "5d531d4346eab53f948c7cbe",
+          "username": "nab.sh",
+          "preview": "@nab",
+          "type": "channelChat.tagged",
+          "user_from": "5c1fdf9dc64fc25cca92658a",
+          "created_at": "2019-09-03T12:05:00.855Z",
+          "channel_chat": "5d6e56ec79f900389ec28839",
+          "google.c.a.e": "1",
+          "group": "5d531d4346eab53f948c7cbd",
+          "notif": "5d6e56ec79f900389ec2883a"
+        },
+        "_notificationId": "C9D52BB0-A34E-433E-9533-27D5413745FD",
+        "_android": {
+          "_actions": [],
+          "_people": [],
+          "_smallIcon": { "icon": "ic_launcher" }
+        },
+        "_ios": {
+          "_attachments": [],
+          "_category": "",
+          "_launchImage": "",
+          "_threadIdentifier": ""
+        }
+      }
+    }
+  }
+}

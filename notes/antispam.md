@@ -1,0 +1,5 @@
+- cant send just spacebars
+- detect when posting too many messages per period of time
+- detect use of random letters
+- detect repetition of same post
+- setup cooldown (debounce posting) max 1 post evert x seconds
