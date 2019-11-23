@@ -27,7 +27,7 @@
   "dependencies": {
     "@callstack/react-theme-provider": "^2.0.1",
     "dayjs": "^1.8.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "react": "16.8.3",
     "react-native": "^0.59.6",
     "react-native-action-sheet": "^2.2.0",
